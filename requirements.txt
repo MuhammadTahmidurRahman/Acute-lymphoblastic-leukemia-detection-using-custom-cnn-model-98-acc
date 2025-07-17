@@ -1,0 +1,21 @@
+# Core DL framework
+tensorflow>=2.10,<3.0
+
+# Data handling
+numpy>=1.21
+pandas>=1.3
+scikit-learn>=1.1
+
+# Image I/O & preprocessing
+opencv-python>=4.5
+
+# Visualization
+matplotlib>=3.5
+seaborn>=0.11
+plotly>=5.0
+
+# Utilities
+joblib>=1.1
+kaggle>=1.5
+
+# (If you use any other libs in your notebooks, add them here)
